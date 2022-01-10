@@ -88,7 +88,7 @@ header {
 .section-about {
     max-width: var(--max-width-section);
     margin: 0 auto;
-    padding-top: 4rem;
+    padding-top: 8rem;
     padding-bottom: 2rem;
     display: flex;
     justify-content: center;
@@ -98,6 +98,11 @@ header {
     width: 300px;
 }
 
+#img-girl-training {
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+
 .section-title {
     font-size: 3rem;
     line-height: 1.2em;
@@ -105,7 +110,7 @@ header {
 }
 
 .section-about-info {
-    padding: 8rem 4rem;
+    padding: 4rem;
     width: 50%;
 }
 
@@ -141,7 +146,7 @@ header {
 }
 
 .section-services-links a:last-child{
-    background-image: url('../img/backg1.jpg');
+    background-image: url('../img/backg3.jpg');
 }
 
 .service-link{
@@ -175,7 +180,7 @@ header {
     max-width: var(--max-width-section);
     margin: 0 auto;
     padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-bottom: 8rem;
 }
 
 .section-reviews .section-title{
@@ -212,10 +217,11 @@ header {
 }
 
 .section-empty{
-    background-image: url('../img/backg2.jpg');
+    background-image: url('../img/gym.jpg');
     background-size: cover;
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    background-position: center;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
 }
 
 .empty-title {
@@ -238,6 +244,7 @@ footer {
     font-family: var(--font-family-title);
     font-size: 30px;
     font-style: italic;
+    text-transform: uppercase;
 }
 
 .footer-item a{
