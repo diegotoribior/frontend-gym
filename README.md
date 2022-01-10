@@ -1,4 +1,4 @@
-#Plantilla web de un gimnasio
+# Plantilla web de un gimnasio
 Maquetación en HTML y CSS de un hipotético gimnasio.
 
 Diseño de [Canva.com](https://www.canva.com/)
