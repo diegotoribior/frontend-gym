@@ -229,10 +229,15 @@ header {
     margin: 0 auto; 
 }
 
-footer {
+.footer-backg{
     background-color: var(--color-yellow);
+}
+
+footer {
+    max-width: var(--max-width-section);
+    margin: 0 auto;     
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     column-gap: 120px;
     padding-top: 2rem;
     padding-bottom: 4rem;
