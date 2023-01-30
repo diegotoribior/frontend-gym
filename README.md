@@ -12,4 +12,4 @@ Autores de las imágenes: [Danielle Cerullo](https://unsplash.com/@dncerullo), [
 
 Estado: [![Netlify Status](https://api.netlify.com/api/v1/badges/3f745530-f3ec-4fdb-8955-edc4b2e20d89/deploy-status)](https://app.netlify.com/sites/gym-dtr/deploys)
 
-Stack: (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Stack: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
